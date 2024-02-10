@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-geometr415-blk-bt: "Geometr415 Blk BT";
+  
+    /* font sizes */
+    --font-size-13xl: 32px;
+    --font-size-5xl: 24px;
+    --font-size-3xl: 22px;
+    --font-size-81xl: 100px;
+  
+    /* Colors */
+    --color-black: #000;
+    --color-lightsteelblue: #bac5e1;
+    --color-darkslategray: #2c3042;
+    --color-darkslateblue: #354d84;
+    --color-white: #fff;
+  
+    /* Border radiuses */
+    --br-6xl: 25px;
+    --br-29xl: 48px;
+    --br-25xl: 44px;
+    --br-11xl: 30px;
+    --br-6xs: 7px;
+    --br-41xl: 60px;
+  }
+  
